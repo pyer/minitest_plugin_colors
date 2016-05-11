@@ -5,6 +5,7 @@ A minitest plugin that adds colors to test reports.
 
 No need to modify your Ruby source code. Just copy minitest directory to a path of $LOAD_PATH
 
+Tested with Minitest version 5.8.3
 
 Installation
 ------------
