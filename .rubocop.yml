@@ -1,0 +1,32 @@
+# This is the Rubocop configuration used to check the Ruby source code.
+
+Style/Encoding:
+  Enabled: true
+
+Style/SingleSpaceBeforeFirstArg:
+  Enabled: false
+
+Style/ExtraSpacing:
+  Enabled: false
+
+FormatString:
+  EnforcedStyle: percent
+
+Style/SpecialGlobalVars:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 132
+
+Metrics/MethodLength:
+  Max: 24
+
+Metrics/ClassLength:
+  Max: 140
+
+Metrics/ModuleLength:
+  Max: 300
+
+Metrics/AbcSize:
+  Enabled: false
+
