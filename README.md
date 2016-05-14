@@ -18,3 +18,8 @@ How to print $LOAD_PATH ?
 -------------------------
 
     ruby -e 'puts $LOAD_PATH'
+
+Screenshot example
+------------------
+
+![alt text](screenshot.png "Screenshot")
